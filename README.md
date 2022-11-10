@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Adebobola Victoria @Adeyanfe
+- 👀 I’m interested in Data Analytics and Data Base Management System
+- 🌱 I’m currently learning Data Programming with Python, Excel and SQL
+- 💞️ I’m actively looking to learn, grow and gain experience
+- 📫 How to reach me : Email: adebobolavictoriaoo@gmail.com
